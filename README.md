@@ -1,5 +1,7 @@
-# COE3200 Project: Non-Verbal Communication
-**Prints a greeting massage:** This repository is created to demonstrate the use of GitHub for showcasing technical projects and professional coding skills.
+# COE3200: Communication Skills Assignment
 
-**greeting massage:** The included `hello.py` is a basic Python script that prints a greeting message to the console to confirm a successful environment setup.
+## Purpose
+The purpose of this repository is to demonstrate how GitHub serves as a tool for non-verbal communication in the IT industry. It showcases version control and professional presentation of code.
 
+## Script Details
+The script `hello.py` is a simple Python program that prints a welcoming message to the console when executed.
